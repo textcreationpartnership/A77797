@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The priviledges of an ambassadour: VVritten by a civilian to a friend who desired his opinion concerning the Portugall ambassadour</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77797</idno>
+            <idno type="STC">Wing B545A</idno>
+            <idno type="STC">ESTC R231192</idno>
+            <idno type="EEBO-CITATION">99897251</idno>
+            <idno type="PROQUEST">99897251</idno>
+            <idno type="VID">136918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136918)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2470:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The priviledges of an ambassadour: VVritten by a civilian to a friend who desired his opinion concerning the Portugall ambassadour</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ambassadors --  Portugal --  Early works to 1800.</term>
+               <term>Portugal --  Foreign relations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:136918:1" rendition="simple:additions"/>
+            <p>THE PRIVILEDGES OF AN <hi>AMBASSADO<g ref="char:V">Ʋ</g>R:</hi> VVritten by a CIVILIAN to a FRIEND who deſired his Opini<g ref="char:EOLhyphen"/>on concerning the <hi>Portugall</hi> AMBASSADOUR.</p>
+            <q>
+               <l>—<hi>Et ſanctum populis per ſecula nomen</hi>
+               </l>
+               <l>LEGATUM;—</l>
+            </q>
+            <p>Printed in the Yeare 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:136918:2"/>
+            <pb n="3" facs="tcp:136918:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Received your Letter concerning the <hi>Portugalls</hi> outragious action in the <hi>New Exchange;</hi> and by that Em<g ref="char:EOLhyphen"/>pire you have over me, you may challenge my private opinion con<g ref="char:EOLhyphen"/>cerning it, how our <hi>State</hi> may juſtly vindicate the blood of our Natives, ſhed by the traine and followers of an <hi>Embaſſadour;</hi> Although the <hi>Judges</hi> having already acted by their im<g ref="char:EOLhyphen"/>priſonment in the <hi>Common-goal,</hi> may ſeem to have decided the Controverſie, by ſubjecting their perſons to the <hi>Common-Lawes,</hi> not allowing them priviledges as <hi>Comites Legati</hi> ought to have. But I finde Sir <hi>Edward Cook</hi> himſelf cenſured, by a moſt learned <hi>Civilian,</hi> to be, <hi>Juris quod cum exteris obtinet non adeò peritus;</hi> And therefore the preſent Judges may allow themſelves not infallible in a point not deduced from <hi>Littleton</hi> or <hi>Magna Charta,</hi> (and ſo bounded within the <hi>Narrow Seas</hi>) but referring wholly to the Lawes and practice of Nations.</p>
+            <p>Sir <hi>Edward Cook</hi> in the <hi>Iuriſdiction of Courts</hi> trea<g ref="char:EOLhyphen"/>teth but incidently of <hi>Embaſſadours,</hi>
+               <note place="margin">Cap. 26.</note> as it were Confeſ<g ref="char:EOLhyphen"/>ſing them exempt from the Juriſdiction of the <hi>Common Law.</hi> In the ſame Chapter he delivers it for Law, that if a man baniſhed for any heinous offence be ſent Em<g ref="char:EOLhyphen"/>baſſadour to that place whence he was proſcribed, he
+<pb n="4" facs="tcp:136918:3"/>ought not to be deteined or puniſhed: and the ſame Le<g ref="char:EOLhyphen"/>gantine office may in reaſon aſwell protect him that offends <hi>Durante offic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o,</hi> as exempt that perſon from pu<g ref="char:EOLhyphen"/>niſhment, in that place where he is Employed <hi>Legat,</hi> after a Crime committed.</p>
+            <p>The moſt worthy <hi>Selden</hi> tells us,
+<note place="margin">
+                  <hi>Ad Fletam. diſſert.</hi> cap. 8. § 4.</note> that <hi>Renatus Chop<g ref="char:EOLhyphen"/>pinus</hi> and other learned men are deceived, that raſhly affirme, the Engliſh reteine no uſe of the <hi>Caeſarian Lawes;</hi> and declares that all Leagues and tranſactions between this Nation and other Princes and States, and the rights of <hi>Legation,</hi> are Governed and expounded by thoſe Lawes, and the interpreters of them: and therefore the uſe of theſe Lawes is admitted in the Con<g ref="char:EOLhyphen"/>ſiſtories of both our <hi>Univerſities,</hi> and in the Court of <hi>Admiraltie,</hi> that Forainers that come to ſtudy and mer<g ref="char:EOLhyphen"/>chandiſe may be regulated by thoſe Lawes that are well known to themſelves.</p>
+            <p>The <hi>Legate</hi> brings with him the Lawes and rules of Nations;
+<note place="margin">
+                  <hi>Kirckner.</hi> l. 2. c. 1. n. 126.</note> according to which he ſquares his procee<g ref="char:EOLhyphen"/>dings; and his actions are onely examined by theſe, and not by the municipall Statutes of particular nations: the Interdict in ſome Citties in <hi>Italy,</hi> that no man ſhall under a great penaltie weare a ſword in publique, can<g ref="char:EOLhyphen"/>not extend to a Legate (thither ſent) who according to the cuſtome of his nation, <hi>Aeinacem &amp; telum gerit.</hi>
+            </p>
+            <p>
+               <hi>Ferdinand</hi> the <hi>Emperour</hi> ſhut up a Grove neere to his palace in <hi>Vienna</hi> for his privacy and delight, and prohibited all perſons under an heavy mulct to enter or cut down any trees there: the <hi>King</hi> of <hi>Poland's Am<g ref="char:EOLhyphen"/>baſſadour's</hi> Coachman rudely entred the place, and car<g ref="char:EOLhyphen"/>ried away a Cartfull of the forbidden trees, and though the <hi>Emperour</hi> frowned hereat, yet <hi>Legationis tutamini impunè res illa ceſſit, quod aliis fraudifuiſſet.</hi>
+            </p>
+            <pb n="5" facs="tcp:136918:3" rendition="simple:additions"/>
+            <p>An <hi>Embaſſadour,</hi>
+               <note place="margin">
+                  <hi>Dd. in leg. quoties ff. ad Leg.</hi> Jul. <hi>Maj.</hi>
+               </note> that Conſpireth the deſtruction of that Prince to whom he is ſent, cannot be accuſed of Treaſon, for <hi>non ſubditus non poteſt peccare in majeſta<g ref="char:EOLhyphen"/>tem;</hi> and though he be puniſhable, yet not by the mu<g ref="char:EOLhyphen"/>nicipall Lawes of that place where he offends, which uſually puniſh <hi>affectum pro effectu,
+<note place="margin">Leg. poſt. Div. God<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eod.</note> ſuaſum &amp; Conſilium ſceleris pro conſummato,</hi> but naturall reaſon, and the Law of nations, make a difference between Intentions, and Facts, <hi>Gentilis de legat. lib.</hi> 2. <hi>Cap.</hi> 17.</p>
+            <p>The <hi>Venetian</hi> Embaſſadour reſident in <hi>England</hi> a<g ref="char:EOLhyphen"/>bout the yeare 1628. was deprehended by the hus<g ref="char:EOLhyphen"/>band (if not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> yet) in bed with his wife; the husband conſulting the learned in the Laws for revenge upon the Embaſſadour, found, that <hi>(inanis erat actio quae exceptione repellitur)</hi> the Legate was Priviledged; and therefore was content only to ſue a divorce <hi>adni<g ref="char:EOLhyphen"/>terium a menſa &amp; thero:</hi> though <hi>adulterie</hi> be held <hi>natu<g ref="char:EOLhyphen"/>ra probrum ac turpe,</hi> and (by the Law of the <hi>God)</hi> ſtyled <hi>faediſsima nequitia. leg.</hi> 20. <hi>cad. ad leg. Jul de adult.</hi>
+            </p>
+            <p>
+               <hi>Cicero</hi> ſaith,
+<note place="margin">Orac. 3 <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> verrem.</hi>
+               </note> that the name of <hi>Embaſſadour</hi> ought to be ſo holy and inviolable, <hi>quod non modò inter ſociorum Jura, ſed etiam hostium tela incolume verſetur, id<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> non tam humano quam divino ſcito ſancitum:</hi> They were as ſacred as <hi>Mercury</hi> ſent from <hi>Jupiter,</hi> and thereupon <hi>Cato</hi> Oraculouſly ſaith, <hi>Caduceatori nemo nocet:</hi> And there<g ref="char:EOLhyphen"/>fore the <hi>Romans</hi> eſteeming <hi>Embaſsie</hi> the only Umpire and preparative of Peace and Warre, and that <hi>Legats</hi> in their employments do put off the nature of Enemies, did ſet up a Colledge of twenty <hi>Feciales</hi> or <hi>Heraulds,</hi> that if any Embaſſadour was violated by a <hi>Roman,</hi> they might deliver up the offender without any reſpect had to the honour and dignity of his perſon: for to that He<g ref="char:EOLhyphen"/>roick nation, <hi>Legati nomen gravius erat, quam ullius
+<pb n="6" facs="tcp:136918:4"/>Injuriae aeſtimatio.</hi>
+               <note place="margin">
+                  <hi>Alber Gent. H. Grotius.</hi> &amp;c.</note> The moſt eminent <hi>Civilians</hi> hold, that if an Embaſſadour offend (even through Treaſon or ſedition) he is to be remitted to his owne Prince to be puniſhed, or yeilded up by him, unleſſe the danger from the Embaſſadour be imminent and ſudden, in which caſe he may be juſtly killed, yet <hi>non per modum poenae, ſed per modum naturalis defenſionis.</hi> And though Em<g ref="char:EOLhyphen"/>baſſadours have ſometimes been more roughly dealt with upon their committing offences, yet the <hi>ſacred priviledges of Embaſſadours</hi> (as the Biſhop of <hi>Roſſe</hi> Em<g ref="char:EOLhyphen"/>baſſadour for the <hi>Queen</hi> of <hi>Scots</hi> anſwered the Lord <hi>Burleigh</hi> (upon the ſame pretences againſt him) were never violated,
+<note place="margin">
+                  <hi>Camd. Eliz. anno</hi> 1571.</note> 
+               <hi>viâ Juris, ſed viâ Facti;</hi> and that by barbarous or ignominious per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>The Embaſſadours of the <hi>Tarquins</hi> being ſent into <hi>Rome</hi> to demand their goods,
+<note place="margin">Liv.</note> although they had con<g ref="char:EOLhyphen"/>ſpired with ſome Roman Youths, and taken a reſoluti<g ref="char:EOLhyphen"/>on to let in the Kings clancularly by night: yet the <hi>Con<g ref="char:EOLhyphen"/>ſuls</hi> (to whom this Treaſon was diſcovered by a ſlave, deprehending all the Conſpiratours, &amp; caſting them into Priſon) diſmiſſed the <hi>Legats</hi> as inviolable by the lawes of Nations, whoſe very perſons are <hi>Aſyla,</hi> pro<g ref="char:EOLhyphen"/>tecting both themſelves, and others.</p>
+            <p>
+               <hi>Scipio African,</hi> having taken a ſhip filled with many <hi>Carthaginians,</hi> remitted them all untouched, becauſe they averred themſelves to be <hi>Legates,</hi> although it was manifeſt to him, that they falſely aſſumed the name of Embaſſadors to avoid the preſent danger. And the lear<g ref="char:EOLhyphen"/>ned <hi>Gentilis</hi> (though Advocate in <hi>England</hi> for the <hi>Spa<g ref="char:EOLhyphen"/>niard</hi>) hath theſe words,
+<note place="margin">
+                  <hi>De legat.</hi> l. 2. c. 18.</note> 
+               <hi>Juſtiſsimè actum his diebus in Angliâ cum legato Hispanico, qui in vitam Principis &amp; regnum ejus conjuratus, dimiſſus eſt dimittendum Legatum
+<pb n="7" facs="tcp:136918:4"/>exiſt imamus optimis docti rationibus, &amp; exemplis.</hi> We read of <hi>Sacra lagationum, &amp; Sanctimoniam legatorum. Pomponius: l. ſi quis: ff: de legationibus: Sancta corpora Legatorum: Varro lib.</hi> 3. <hi>de ling. lat. ab omni injuriâ tectis jure Gentium, Servius ad</hi> 10 <hi>Aeneid: tuti<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> regreſ<g ref="char:EOLhyphen"/>ſus legato. Papinius. lib.</hi> 2.</p>
+            <p>I ſhall not deny but that ſome learned men do hold that the law of nations is reciprocall, and may be vio<g ref="char:EOLhyphen"/>lated by the Legate as upon the Legate: and that tis one thing to <hi>violate</hi> the Embaſſadour, and another thing to <hi>puniſh</hi> him, this ſuppoſing a <hi>Crime,</hi> that an <hi>In<g ref="char:EOLhyphen"/>jury, &amp; hoc juris illud facti nomen eſt:</hi> and though a Legat is eſteemed holy and inviolable by the lawes,
+<note place="margin">ff. l. 8. <hi>de rer: diviſ.</hi>
+               </note> yet <hi>Mar<g ref="char:EOLhyphen"/>cianus</hi> in his elegant definition of the word <hi>Sanctum,</hi> delivers that to be ſo, <hi>quod ab injuriâ hominum (non au<g ref="char:EOLhyphen"/>tem a jure magiſtratus) defenſum at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> munitum est,</hi> and therefore if an Embaſſadour, <hi>Jure gentium ſanctus ha<g ref="char:EOLhyphen"/>betur, Jure-gentium etiam delinquens obligatur ad pae<g ref="char:EOLhyphen"/>nam:</hi> like as a ſanctuary will ſave a mans life from man-ſlaughter, but not when man-ſlaughter is comit<g ref="char:EOLhyphen"/>ted within the Sanctuary.
+<note place="margin">Cap. in audi<g ref="char:EOLhyphen"/>entia. ex. de ſent excom.</note> 
+               <hi>Frustra ſiquidem Eccleſiae im<g ref="char:EOLhyphen"/>plorant auxilium qui in eam committunt.</hi>
+            </p>
+            <p>To this it may be replyed, that by Remiſſion of an offending Embaſſadour to his own Prince, the offence is not pardoned, but the tribunall changed; his <hi>Mer<g ref="char:EOLhyphen"/>curiall</hi> rod doth not <hi>free</hi> but <hi>reprieve</hi> him: he may be interrogated, and his examinations tranſmitted to his Prince to puniſh him: And if an Embaſſadour ought to be remitted for offences againſt Princes and Com<g ref="char:EOLhyphen"/>mon-wealths, which are Crimes, <hi>contra Jus inter Gen<g ref="char:EOLhyphen"/>tes (quod Jus inter Principes &amp; populos diverſarum Gen<g ref="char:EOLhyphen"/>tium communiter intercedit)</hi> how much more for offen<g ref="char:EOLhyphen"/>ces againſt private perſons that are <hi>Crimina ſolùm Jure
+<pb n="8" facs="tcp:136918:5"/>Gentium,</hi> ſuch as are Homicide, Felony, and Lying, &amp;c.</p>
+            <p>Now whether that ſecurity given to the Legates themſelves may be extended to their followers, comes home to the <hi>Portugalls</hi> Caſe. It is a received rule, that <hi>privilegium conceſſum perſonae ſingulari extenditur ad perſonas acceſſorias ſine quibus privilegium exerceri non poteſt. Rebuffus de privilegiis, &amp;c. privileg.</hi> 166. <hi>cap.</hi> licet.
+<note place="margin">Plut.</note> 
+               <hi>de privileg. in</hi> 6. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. And we ſee it granted at home and abroad to Embaſſadours, their followers being comprehended to uſe divine ſervice af<g ref="char:EOLhyphen"/>ter their owne Countrey Rites,
+<note place="margin">
+                  <hi>Argum.</hi> le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 16 <hi>ff. d<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ffio.</hi> pr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ. 12 q. 2. <hi>cap. eccleſiar.</hi>
+               </note> and Religion: <hi>eadem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Privilegia prudentum interpretatione derivantur &amp; ex<g ref="char:EOLhyphen"/>tenduntur ad Comites, cum aequiſsimum ſit oneris &amp; pe<g ref="char:EOLhyphen"/>riculi ſocios quinimo muneris vicarios, &amp; morum teſtes, honoris quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; favoris eſſe participes.</hi> And therefore they are equally guilty by the <hi>Julian</hi> Law who have injur'd either the Embaſſadors or their <hi>Comites.</hi>
+               <note place="margin">
+                  <hi>ff. ad</hi> leg. Ju<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>de repub.</hi> l. <hi>Julia lege. De Jure</hi> Bel. &amp; pac. l. 2. c. 18. §. 8</note> And the moſt excellent <hi>Grotius</hi> ſaith, <hi>Comites ſancti ſunt acceſſoriè,</hi> and therefore if they doe tranſgreſſe, the Le<g ref="char:EOLhyphen"/>gat may be demanded to yeild them up, but they are not to be taken away by force, which being once done by the <hi>Achaeans</hi> upon the <hi>Lacedaemonians</hi> (who were in company with the <hi>Roman</hi> Embaſſadours) the <hi>Romans</hi> exclaim'd <hi>The Lawes of Nations were broken.</hi>
+               <note place="margin">
+                  <hi>Pauſ.</hi> lib. 7.</note>
+            </p>
+            <p>And if the Embaſſadours refuſe to deliver up the of<g ref="char:EOLhyphen"/>fendours, ſatisfaction may be required of that Prince or State, that commiſſion'd the Legat.</p>
+            <p>The meer Law of Nature exacts puniſhments in the place where the Crime is committed,
+<note place="margin">L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g. 2. <hi>God. ubi crim. God ubi ſen.</hi> leg. 1. ff. l g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>eo fa cto.</hi> de vulg. Subſ.</note> and by the Civill Law, <hi>quiſque conveniendus eſt ubi deliquit, vel ubi repe<g ref="char:EOLhyphen"/>ritur,</hi> it ſeeming to be reaſon that <hi>reatus omnem hono<g ref="char:EOLhyphen"/>rem excluderet,</hi> and that <hi>immunitas deſineret cum incipit eſſe damnoſa,</hi> Yet the Law of Nations exempts thoſe
+<pb n="9" facs="tcp:136918:5"/>that come upon publick Faith, by which Law many things are forbidden that are allowed by the Law of Nature. Alſo by the Canon Law <hi>Clerico delinquenti datur praeſcriptio fori,</hi> And the Civill Law ſpeaks <hi>De ſubditis,</hi> who are to be tried where they have offended.</p>
+            <p>If Embaſſadours and their <hi>Comites</hi> ſhould be onely ſecur'd from outrages and injuſtice (other men being ſo farre protected) they enjoy no ſpeciall favour, or privi<g ref="char:EOLhyphen"/>ledge. Beſides, the ſecurity and remiſſion of an Em<g ref="char:EOLhyphen"/>baſſadour and his <hi>Comites,</hi> is of more concernment than their puniſhments, for puniſhments ought and may be had from that Prince and State, which ſent the Embaſſadour. And if they refuſe <hi>(juſtè interpella<g ref="char:EOLhyphen"/>ti)</hi> warre may be denounced in vindication. And there<g ref="char:EOLhyphen"/>fore thoſe Lawes which ſubject Stangers to the Lawes of thoſe Territories where the Strangers are found, ſuffer an exception in the perſons of Legats becauſe they repreſent their Princes. The Civilities and Viola<g ref="char:EOLhyphen"/>tions done to their Embaſſadours being eſteem'd by Princes as done to themſelves.</p>
+            <p>We finde him in the Civill Law to be guilty of Trea<g ref="char:EOLhyphen"/>ſon,
+<note place="margin">
+                  <hi>ff. leg.</hi> 6<hi>ta. ad leg.</hi> Jul. Ma<g ref="char:EOLhyphen"/>jeſt. 19. <hi>Obſ.</hi>
+               </note> 
+               <hi>qui ſtatuas aut imagines Imperatoris jam conſecratas conflaverit, aliudve quid ſimile admiſerit:</hi> and <hi>Cujacius</hi> (like our owne Law) affirmes him guilty of the penalty in the Law <hi>Cornelia: qui monetam vultu Principis ſigna<g ref="char:EOLhyphen"/>tam conflaverit.
+<note place="margin">7. <hi>Variar.</hi>
+                  </note> Caſsiodorus</hi> brings in King <hi>Theodorick</hi> ſpeaking, <hi>Monetae debet integritas quaeri, ubi &amp; vultus noſter imprimitur; quoduam erit tutum, ſi in nostrâ pec<g ref="char:EOLhyphen"/>cetur effigies,</hi> &amp;c.
+<note place="margin">
+                  <hi>Dio. Ap. in</hi> Mithr.</note> And <hi>Philip</hi> did therefore overthrow <hi>Athens,</hi> becauſe the <hi>Athenians</hi> had but <hi>beſpattered</hi> his Image with <hi>Urine.</hi> And if the Abuſers of the Statues and Pictures of Princes, have been ſo ſeverely handled, how may they be dealt with, that ſhall violate the vo<g ref="char:EOLhyphen"/>call
+<pb n="10" facs="tcp:136918:6"/>and animate Images of Princes <hi>(prope dixerim animum &amp; Linguam)</hi> the Legates themſelves.</p>
+            <p>
+               <hi>Idiaco</hi> Secretary to <hi>Philip</hi> the ſecond, King of <hi>Spaine,</hi> told <hi>Waad</hi> the Embaſſadour of Queen <hi>Elizabeth,</hi>
+               <note place="margin">Camd. Eliz.</note> that the affronts and injuries the Queene had done to <hi>Mendoza</hi> (anno 1584) as formerly to <hi>Deſpeſi,</hi> the <hi>Spa<g ref="char:EOLhyphen"/>nyards</hi> Embaſſadours (<hi>anno</hi> 1569.) were offered to the <hi>Catholick King</hi> himſelfe.</p>
+            <p>An Embaſſadour therefore repreſenting his Prince, enjoyes the ſame priviledge his Prince ſhould do, were he in another Nation. And there is a notable Preſi<g ref="char:EOLhyphen"/>dent cited out of <hi>Fleta,</hi>
+               <note place="margin">Lib. 2. cap. 3.</note> that Kings carry an exempt Ju<g ref="char:EOLhyphen"/>riſdiction being in another Nation, where treating of the Juriſdiction of the Court of <hi>Marſhalſey,</hi> it is ſaid, And theſe things they may lawfully doe by Office, (that is to ſay) the Steward of the Kings houſhold, not<g ref="char:EOLhyphen"/>withſtanding the liberty of any other, although in ano<g ref="char:EOLhyphen"/>ther Kingdome, where the offendour may be found in the Kings houſe; according to that which happened at <hi>Paris,</hi> held in the 14. year of <hi>Edw.</hi> 1. of one <hi>Ingelram</hi> of <hi>Nogent,</hi> taken in the houſhold of the King of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> (the King himſelfe being then at <hi>Paris</hi>) with ſil<g ref="char:EOLhyphen"/>ver diſhes lately ſtoln, at which deed the King of <hi>France</hi> being preſent; and whereupon the Court of the King of <hi>France</hi> did claim Cognizance of the Plea con<g ref="char:EOLhyphen"/>cerning that Theft, by Juriſdiction of the Court at <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> the matter being diverſly debated in the Councell of the King of <hi>France;</hi> at length it was ordered that the King of <hi>England</hi> ſhould uſe and enjoy that his King<g ref="char:EOLhyphen"/>ly Prerogative of his houſhold; where being convicted (by Sir <hi>Robert Fitz-John</hi> Knight, Steward of the Kings houſhold) of the Theft, by conſideration of the ſame Court he was hanged on the Gallows in St. <hi>German</hi>'s <hi>fields.</hi>
+            </p>
+            <pb n="11" facs="tcp:136918:6"/>
+            <p>It may be objected that by this Remiſſion of the of<g ref="char:EOLhyphen"/>fendors to their own Maſters, the like attempts may be encouraged, the Traine and followers of Embaſſadours being not ſtinted by the Lawes of Nations, and then, not <hi>legatio ſed Legio mittatur,</hi>
+               <note place="margin">Proc. lib. 2.</note> whereupon <hi>Georgius Ro<g ref="char:EOLhyphen"/>manus,</hi> Governour of the Citie <hi>Dara</hi> under <hi>Juſtinian</hi> the <hi>Emperour,</hi> refuſed to admit the Embaſſadours of <hi>Coſrhois</hi> the <hi>Perſian King</hi> into the <hi>City,</hi> being foure hundred Perſons, leſt they might prevaile upon the <hi>City.</hi>
+            </p>
+            <p>It is replyed, No man can juſtly object his feare of the multitude of Embaſſadours; for my right is not ta<g ref="char:EOLhyphen"/>ken away by another mans ſeare, and ſo much the leſſe, becauſe there be many wayes of Caution and preventi<g ref="char:EOLhyphen"/>on of danger.</p>
+            <p>It is true, that Embaſſies of Congratulation carry more pomp uſually than buſineſſe, and the Attendants are many; In theſe Embaſſies of buſineſſe, fewer, be<g ref="char:EOLhyphen"/>cauſe tranſactions are more expeditious (and more ſe<g ref="char:EOLhyphen"/>cret) that are managed by few; And therefore that little beaſt the Naturaliſt cals <hi>Millepeda, omnium repti<g ref="char:EOLhyphen"/>lium tardiſsimum est animalculum:</hi> And though <hi>De<g ref="char:EOLhyphen"/>metrius</hi> taking it heynouſly from the <hi>Lacedaemonians</hi> that had ſent onely one perſon in Embaſſie to him, <hi>ſic exclamaſse fertur, unum ad me Lacedaemonij?</hi> to whom the Legate replyed <hi>ſcitè &amp; breviter, ſed non ad Legati<g ref="char:EOLhyphen"/>onis pompam ac decorem,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, And <hi>Iſidor. lib.</hi> 4. ſpeakes of <hi>Belus rex Babyloniae</hi> (who firſt introduced Commerce by Embaſſadours) that he was content with two: Like old <hi>Cato</hi> that had one or two Boyes onely in his company when he was Embaſſadour.
+<note place="margin">Plutarch.</note> Yet our moderne Lawyers commend ſometimes the ſplen<g ref="char:EOLhyphen"/>dor of an Embaſſage, &amp; our Stories expreſs them moſt
+<pb n="12" facs="tcp:136918:7"/>ſucceſsful in their Treaties, that are moſt honourable in their carriage, and Copious in their traines. And <hi>Kirch<g ref="char:EOLhyphen"/>nerus</hi> obſerves the <hi>French</hi> to be reputed ignominious by the parſimony of their Legations.</p>
+            <p>But heretofore (as well as at preſent) the <hi>Portugalls</hi> in their Embaſſies, as <hi>Warſer. de Legat.</hi> ſpeakes, <hi>Luſi<g ref="char:EOLhyphen"/>tani Regis in Hiſpaniam legationem inſtar exercitus appu<g ref="char:EOLhyphen"/>liſſe,</hi> and the maſter of the Houſhold appointed to quarter them, demanding how many they were, being anſwered by a <hi>Portugall,</hi> that <hi>they were</hi> 500 <hi>like unto Gods, and</hi> 500 <hi>like unto other men in that Embaſſage,</hi> replyed that <hi>the God-like ſhould go into the Temples, and theſe like men into the Inns.</hi>
+            </p>
+            <p>In this delivery of my Judgement, I have not endea<g ref="char:EOLhyphen"/>voured to flatter my Countrey-men into the uſurpation of an illegall priviledge, but rather advertis'd them to amplifie their renown by a generous obſervation of Hoſpitality, and reſpect to ſtrangers and Embaſſa<g ref="char:EOLhyphen"/>dours: and have impartially ſearched after truth, be<g ref="char:EOLhyphen"/>cauſe though there is no man before whom I might more ſafely erre, yet there is none whom I would more unwillingly ſeduce than my Second ſelfe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:136918:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
